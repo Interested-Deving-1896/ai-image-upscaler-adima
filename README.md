@@ -18,7 +18,13 @@ With the **latest update**, Adima AI is now lighter, faster, and more universall
 
 ---
 
-## ✨ What’s New in the Latest Update
+## ✨ What’s New in the Latest Update - 1 June 2026
+
+* **Flexible Subscription Architecture:** Introducing three specialized tiers—**Basic**, **Boost**, and **Turbo**—engineered to align seamlessly with varying operational scales and performance demands.
+* **GFPGAN-Powered Face Restoration & Batch Pipelines:** Deploying advanced facial reconstruction models via the new **FaceBoost** module to accurately rebuild high-fidelity details from archival, blurred, or low-resolution sources. This capability is fully integrated into a high-throughput pipeline, enabling concurrent processing across extensive image repositories.
+* **Optimized Local Footprint:** Integrating the production-grade **Ultra Face Enhancer** models increases the core package size from **225 MB → ~550 MB**, preserving true offline processing capabilities without compromising system resources.
+
+## ✨ What’s New in the Latest Update - 21 March 2026
 - **Universal Compatibility:** Now works on all Windows devices regardless of GPU (supports NVIDIA, AMD, Intel, or even systems without a dedicated GPU).  
 - **Single Unified App:** No more separate CPU/GPU versions — automatic hardware detection chooses the best mode for you.  
 - **Massive Size Optimization:** Reduced installer size from **2.25 GB → ~225 MB** without compromising performance.  
